@@ -1,0 +1,15 @@
+.outer-box {
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    background-color: lightgray;
+    display: flexbox;
+    align-items: center;
+}
+
+.inner-box {
+  background-color: lightpink;
+  border: 2px solid blue;
+  padding: 15px;
+  margin: 20px;
+}
